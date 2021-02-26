@@ -2,8 +2,7 @@
 
 ## Slide 1
 Hello! Before we begin, I have a few announcements for you. First things first: introduce yourself in the zoom chat and if you’re comfortable, post your LinkedIn Profile!
-Next, if you haven’t yet, sign up for some FREE Winfo Stickers! All designs are finalized and I’ll be placing the order tomorrow so it is literally your last chance!
-Finally, sign up for the Morning Brew! This is a really informative daily news article from a startup based in NYC. Every sign-up on this link contributes to the University of Washington’s BrewU Ambassador team. They’re currently in second place out of 100+ schools so they really need your sign ups!
+Next, sign up for the Morning Brew! This is a really informative daily news article from a startup based in NYC. Every sign-up on this link contributes to the University of Washington’s BrewU Ambassador team. They’re currently in second place out of 100+ schools so they really need your sign ups!
 Awesome! Now let’s get to the actual content
 
 ## Slide 2
