@@ -1,1 +1,1 @@
-# Lesson 1: How do you represent yourself?
+# Lesson 1: Who are you?
