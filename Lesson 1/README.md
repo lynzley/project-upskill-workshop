@@ -24,17 +24,15 @@ To determine your strengths and weaknesses, you’re going to rank these soft sk
 Write down or type your 24 character strengths in order.
 
 <img
-  src="/photos/characterStrengths.png"
+  src="photos/characterStrengths.png"
   alt="Ordered character strengths"
-  style="float: left; margin-right: 90px;"
 />
 
 Review the list of top ten top skills. How would you rank these compared to your character strengths. Write or type this down as well.
 
 <img
-  src="/photos/softSkills.png"
+  src="photos/softSkills.png"
   alt="Ordered soft skills"
-  style="float: left; margin-right: 90px;"
 />
 
 ## Conclusion
