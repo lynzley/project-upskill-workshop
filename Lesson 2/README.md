@@ -4,7 +4,7 @@
 | ----------- |
 | [Resume]()      |
 | [Cover Letter]()      |
-| [LinkedIn](https://github.com/lynzley/project-upskill-workshop/blob/main/LinkedIn%20Personal%20Branding%20Workshop.md)   |
+| [LinkedIn](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202/LinkedIn)   |
 | [Social Media]()   |
 | [Portfolio]()   |
 | [Personal Website]()   |
