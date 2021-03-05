@@ -40,3 +40,5 @@ Once again, ask yourselves the following questions individually or with a group?
 1. What are my top strengths? How can I use these to be a better professional?
 2. What are my weaknesses? How could they be hindering my ability to be a good professional?
 3. How can I address my weaknesses and improve?
+
+## Click [here](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202) to go to the next learning path: *How do you represent yourself?*
