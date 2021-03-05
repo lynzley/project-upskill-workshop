@@ -7,6 +7,6 @@ Thank you to our authors Jove Calimlim, Rawuda Jemal, Locksley Kolakowski, and L
 ## Lessons
 | Name      | Description |
 | ----------- | ----------- |
-| [Who are you?](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%201)      | Title       |
-| [How do you represent yourself?](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202)    | Text        |
-| [How do you connect with others?](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203)    | Text        |
+| [Who are you?](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%201)      | Learn more about your personality strengths and how this directly correlates to the most valued soft skills in the industry!       |
+| [How do you represent yourself?](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202)    | How can you optimize your personal brand to positively reflect in your resume, social media, and other aspects of your life?        |
+| [How do you connect with others?](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203)    | How can you use what you learned to seek mentorship that will lead to professional growth and development?        |
