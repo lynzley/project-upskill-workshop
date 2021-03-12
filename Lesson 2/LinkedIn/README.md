@@ -1,9 +1,5 @@
 # LinkedIn Personal Branding Workshop
 
-<img
-  src="photos/1.png"
-/>
-
 ## What is a personal brand?
 “A personal brand is what people say about you when you leave the room.”
 It is what sets you out in the crowd.
