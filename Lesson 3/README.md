@@ -1,6 +1,5 @@
 # How do you connect with others?
 
-<<<<<<< HEAD
 <img
   src="photos/17.png"
 />
@@ -116,9 +115,3 @@ The About Section is one of the most important sections of your LinkedIn. This i
 4. What do you like about it?
 5. Who are you outside of work?
 
-A few other ways you can break this up:
-Discuss your past, your present, and where you’re looking to go
-Tell your unique story.
-=======
-## 
->>>>>>> 25d14795e8501909683cfa675e7e0b81e657f7fa
