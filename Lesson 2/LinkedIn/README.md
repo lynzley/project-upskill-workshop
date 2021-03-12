@@ -118,3 +118,5 @@ The About Section is one of the most important sections of your LinkedIn. This i
 A few other ways you can break this up:
 Discuss your past, your present, and where you’re looking to go
 Tell your unique story.
+
+## Ready to try out networking in Lesson 3? Click [here](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203).
