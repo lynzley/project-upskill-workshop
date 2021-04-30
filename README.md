@@ -20,5 +20,8 @@ A **soft skill** gap is growing between college grads and future emplowers, disp
 ## Presentation Video
 
 ## Team
+<img
+  src="photos/team.png"
+/>
 
 ## Project Status
