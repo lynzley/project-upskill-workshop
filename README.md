@@ -10,6 +10,7 @@ A **soft skill** gap is growing between college grads and future emplowers, disp
 
 ## Key features
 ### Workshops
+
 | Name      | Description |
 | ----------- | ----------- |
 | [Personal Brand](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202/LinkedIn)      | Develop your personal brand on one of the most important professional platforms: LinkedIn!       |
