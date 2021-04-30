@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Project Upskill
 ## *Upskill your soft skills*
 
