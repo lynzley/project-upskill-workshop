@@ -1,16 +1,23 @@
+# Project Upskill
+## *Upskill your soft skills*
+
 <img
   src="photos/banner.png"
 />
 
-# Project Upskill Workshop
+## Project Overview
+A **soft skill** gap is growing between college grads and future emplowers, disproportionality affecting **first-generation** college students. We aim to close this gap by creating **3 workshops** targetting three key areas in supporting the growth of student's soft skills. Each workshop can be included individually or through a cohort and includes pre- and post-lesson exercises, written instructions to complete the lesson, a slide deck, and more. 
 
-The UW iSchool's Capstone Team, Project Upskill, are pleased to offer a 12-week, 3-lesson curriculum all about developing professional skills. Each lesson includes pre- and post-lesson exercises, written instructions to complete the lesson, a slide deck, and more. Our workshop-based lessons allows you to learn while self-reflecting, a valuable way to grow as a professional.
-
-Thank you to our authors Jove Calimlim, Rawuda Jemal, Locksley Kolakowski, and Lynzley Kolakowski!
-
-## Lessons
+## Key features
+### Workshops
 | Name      | Description |
 | ----------- | ----------- |
-| [Personal Brand](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202/LinkedIn)      | Learn more about your personality strengths and how this directly correlates to the most valued soft skills in the industry!       |
-| [Networking](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203)    | How can you optimize your personal brand to positively reflect in your resume, social media, and other aspects of your life?        |
-| [Behavioral Interview](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203)    | How can you use what you learned to seek mentorship that will lead to professional growth and development?        |
+| [Personal Brand](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202/LinkedIn)      | Develop your personal brand on one of the most important professional platforms: LinkedIn!       |
+| [Networking](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203)    | Use LinkedIn to connect with iSchool alumni and grow your networking skills.       |
+| [Behavioral Interview](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203)    | Perfect your behavioral interview skills!       |
+
+## Presentation Video
+
+## Team
+
+## Project Status
