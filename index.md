@@ -2,8 +2,6 @@
   src="photos/banner.png"
 />
 
-</br>
-
 # Project Upskill Workshop
 
 The UW iSchool's Capstone Team, Project Upskill, are pleased to offer a 12-week, 3-lesson curriculum all about developing professional skills. Each lesson includes pre- and post-lesson exercises, written instructions to complete the lesson, a slide deck, and more. Our workshop-based lessons allows you to learn while self-reflecting, a valuable way to grow as a professional.
