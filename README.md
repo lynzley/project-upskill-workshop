@@ -25,3 +25,8 @@ A **soft skill** gap is growing between college grads and future emplowers, disp
 />
 
 ## Project Status
+This is a University of Washington Information School Capstone project for Winter/Spring 2021.
+
+This project is open-source! Check out the following pages to learn more and contribute!
+- [Github](https://github.com/lynzley/project-upskill-workshop)
+- Documentation
