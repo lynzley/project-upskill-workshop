@@ -10,11 +10,8 @@ It’s how people remember you.
 />
 
 ## Some advice before we begin
-First, have your LinkedIn Profile open and be making these changes now. If you don’t do it right now, you probably never will.
-
-Second, one of the best pieces of advice I’ve ever personally received is I don’t need to follow everyone’s advice--because you’re going to get a lot of it. Take the ideas that you like and if something doesn’t feel right, don’t feel any pressure to add it.
-
-For realsies now, let’s get to the actual content.
+1. Have your LinkedIn Profile open and be making these changes now.
+2. Don't feel pressured to use all of this advice; do what feels best for you.
 
 <img
   src="photos/3.png"
