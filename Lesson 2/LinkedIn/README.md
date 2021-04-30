@@ -2,8 +2,9 @@
 
 ## What is a personal brand?
 “A personal brand is what people say about you when you leave the room.”
-It is what sets you out in the crowd.
-It’s how people remember you.
+
+- It is what sets you out in the crowd. 
+- It’s how people remember you.
 
 <img
   src="photos/2.png"
@@ -18,59 +19,36 @@ It’s how people remember you.
 />
 
 ## Customize your URL
-First things first: customize your LinkedIn URL!
-
-Go to your profile and click the tab in the top right corner that says: Edit public profile & URL.
-
-At this point, you can customize this. This is really important because LinkedIn automatically gives you a really long and messy URL which is hard to fit on resumes and makes it really hard to find you.
+1. Go to your profile and click the tab in the top right corner that says: Edit public profile & URL.
+2. Customize the URL to your personal preference. This will help it be easier to find and fit better on a resume.
 
 <img
   src="photos/4.png"
 />
 
 ## Profile Picture
-Next, let’s look at Profile pictures.
-
-All of these women follow the guidelines really well. Their photo reflects the industry they are in. The techy companies are a little more casual and the other companies are a but more professional.
-
-This is something to keep in mind: if your dream job is to be a software engineer at a tech company, you can probably get away with a less professional photo. However, if you want to go into consulting or a more professional field, you’ll want to put some more effort in getting a really crisp, professional photo of yourself.
-
-Next, avoid cropped photos. Occasionally, you’ll see a photo on LinkedIn where it was pretty clear it was a group that they just cropped. And you can see other peoples arms and shoulders in the photo.
-
-If this is all you have, it’s better than nothing, but definitely look into refreshing that as soon as possible.
+Choose a profile picture that:
+- Reflects the industry you wish to enter (more professional for business/consulting, less professional for tech)
+- Is not cropped from a group photo. Try to find a good headshot of just yourself!
 
 <img
   src="photos/5.png"
 />
 
 ## Cover photos
-Let’s look at Reshma Saujani, the CEO and FOunder of Girls Who Code. She’s using her cover to advertise her book. And you probably can’t see it, but the shirt she is wearing also has Brave, Not Perfect written on it! And, she also has a TED Talk about the idea of women being Brave, not Perfect.
-
-This is one of the best examples of personal brand because she has spent years curating it, and it has definitely paid off.
-
-Next, let’s look at Pamela Maynard, the CEO of Avanda
-Avanade is pretty unique because their brand color is orange.
-Apparently, they use this same orange wave on all of their internal powerpoints!
-
-Next up is Mary Barra, the CEO of General Motors. In her cover photo, it looks like those are either electric or self-driving cars. She’s using her cover photo to represent GM as a future-forward company.
-
-Finally, we have Julie Sweet, the CEO of Accenture. Fun fact: she has just been named the Most Influential Businesswomen of 2020. I love how her background acknowledges the current world and even through the quarantine and stay at home earliers, they’re staying together.
-
-You can easily turn your background into either:z
+You want to customize your cover photo to represent your personal brand. A couple background ideas include:
 - A photo of your college campus
-- A photo of the city you live in
+- A photo of the city you live or work in
 - An action photo of yourself at a conference or giving a presentation
 
-If you have some extra time, try using a tool like Canva which provides banners that you can customize
+**Tip**: If you have extra time, try using a tool like Canva which provides banners that you can easily customize.
 
 <img
   src="photos/6.png"
 />
 
 ## Name
-You want your name to be how you introduce yourself as. For example, if Pamela Maynard actually goes by Pam, she should use that.
-
-Wy? It let’s your network and recruiters know how to refer to you from the very beginning.
+You want your name to be how you introduce yourself as. For example, if you go by a nickname, she should use that. This let’s your network and recruiters know how to refer to you from the very beginning.
 
 Second, LinkedIn has been rolling out a new tool that helps with pronouncing your name. If you want to activate this, make sure that the pronunciation is accurate before it goes live on your profile.
 
