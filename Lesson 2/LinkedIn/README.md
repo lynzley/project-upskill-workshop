@@ -90,7 +90,7 @@ There are three reasons for this:
   src="photos/11.png"
 />
 
-## Final considerations
+## Final considerations for the header
 Here are some final considerations:
 - Make sure your school and work is accurate. Go into settings and opt in to making this visible.
 - Make sure your location is a place recruiters know. You want your location to be somewhere someone from outside of our state would know, such as the Greater Seattle Area.
@@ -99,17 +99,21 @@ Here are some final considerations:
   src="photos/13.png"
 />
 
-## Slide 12
+## The About section
 The About Section is one of the most important sections of your LinkedIn. This is your expanded elevator pitch to your network and recruiters. This is also where you need to include keywords of the skills and positions you’re looking to do in an internship or job. There are a lot of ways to do this, this is one: 
 
 1. What do you do right now?
 2. What gives you the business to do it?
-3. How are you qualified?
 4. What do you like about it?
 5. Who are you outside of work?
 
 A few other ways you can break this up:
-Discuss your past, your present, and where you’re looking to go
-Tell your unique story.
+- Discuss your past, your present, and where you’re looking to go
+- Tell your unique story.
 
-## Ready to try out networking in Lesson 3? Click [here](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203).
+## Reflection
+Congratulations, on levelling-up your LinkedIn Profile! Take a couple minutes to reflect on these points:
+- What are the strong points in my LinkedIn Profile? How can I make these stand out?
+- What are the weaknesses in my LinkedIn Profile? How could I improve them?
+
+## Ready to try out networking? Click [here](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203).
