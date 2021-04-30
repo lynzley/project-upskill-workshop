@@ -1,4 +1,4 @@
-# How do you connect with others?
+# LinkedIn Networking Workshop
 
 <img
   src="photos/18.png"
