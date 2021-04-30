@@ -14,5 +14,5 @@ Thank you to our authors Jove Calimlim, Rawuda Jemal, Locksley Kolakowski, and L
 | Name      | Description |
 | ----------- | ----------- |
 | [Personal Brand](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%202/LinkedIn)      | Learn more about your personality strengths and how this directly correlates to the most valued soft skills in the industry!       |
-| [Networking?](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203)    | How can you optimize your personal brand to positively reflect in your resume, social media, and other aspects of your life?        |
+| [Networking](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203)    | How can you optimize your personal brand to positively reflect in your resume, social media, and other aspects of your life?        |
 | [Behavioral Interview](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203)    | How can you use what you learned to seek mentorship that will lead to professional growth and development?        |
