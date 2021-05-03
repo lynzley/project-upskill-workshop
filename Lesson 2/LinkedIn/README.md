@@ -16,10 +16,14 @@
 1. Go to your profile and click the tab in the top right corner that says: Edit public profile & URL.
 2. Customize the URL to your personal preference. This will help it be easier to find and fit better on a resume.
 
+![Examples of LinkedIn profile photos](photos/profile_photo_linkedin.png "Examples of LinkedIn profile photos")
+
 ## Profile Picture
 Choose a profile picture that:
 - Reflects the industry you wish to enter (more professional for business/consulting, less professional for tech)
 - Is not cropped from a group photo. Try to find a good headshot of just yourself!
+
+![Examples of LinkedIn cover photos](photos/banner_linkedin.png "Examples of LinkedIn cover photos")
 
 ## Cover photos
 You want to customize your cover photo to represent your personal brand. A couple background ideas include:
@@ -46,6 +50,8 @@ There are three reasons for this:
 Here are some final considerations:
 - Make sure your school and work is accurate. Go into settings and opt in to making this visible.
 - Make sure your location is a place recruiters know. You want your location to be somewhere someone from outside of our state would know, such as the Greater Seattle Area.
+
+![Example of LinkedIn profile About section](photos/about_section_linkedin.png "Example of LinkedIn About section")
 
 ## The About section
 The About Section is one of the most important sections of your LinkedIn. This is your expanded elevator pitch to your network and recruiters. This is also where you need to include keywords of the skills and positions you’re looking to do in an internship or job. There are a lot of ways to do this, this is one: 
