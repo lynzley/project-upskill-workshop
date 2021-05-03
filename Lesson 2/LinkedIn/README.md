@@ -10,6 +10,8 @@
 1. Have your LinkedIn Profile open and be making these changes now.
 2. Don't feel pressured to use all of this advice; do what feels best for you.
 
+![Visual guide for customizing LinkedIn URL](/photos/customizing_url_linkedin.png "Visual Guide for Customizing LinkedIn URL")
+
 ## Customize your URL
 1. Go to your profile and click the tab in the top right corner that says: Edit public profile & URL.
 2. Customize the URL to your personal preference. This will help it be easier to find and fit better on a resume.
