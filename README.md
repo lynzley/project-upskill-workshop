@@ -33,4 +33,4 @@ This is a University of Washington Information School Capstone project for Winte
 
 This project is open-source! Check out the following pages to learn more and contribute!
 - [Github](https://github.com/lynzley/project-upskill-workshop)
-- Documentation
+- [Documentation](https://github.com/lynzley/project-upskill-workshop/blob/main/Documentation.md)
