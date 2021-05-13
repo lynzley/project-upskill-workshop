@@ -1,6 +1,8 @@
 # LinkedIn Networking Workshop
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLbTLaLIntv0NNiHcfsLwAOON7libV9OMTXVZFGM62RRZKAtNCQ9V7tBCC8HQiRwIS74YooLhhheLX/embed?start=true&loop=true&delayms=60000"></iframe>
+![Cover slide of LinkedIn Networking Workshop](cover.png "Cover slide of LinkedIn Networking Workshop")
+
+*Download workshop [here](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203/Networking.pptx).*
 
 ## Words of Wisdom
 - Do not wait until you're applying to jobs to start networking!
