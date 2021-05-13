@@ -1,10 +1,12 @@
 # LinkedIn Personal Branding Workshop
 
-This page serves as an overview for the LinkedIn Personal Branding Workshop. To access the workshop materials, visit our GitHub repository here: 
+This page serves as an overview for the LinkedIn Personal Branding Workshop.
 
-![Cover slide of LinkedIn Personal Branding Workshop](phots/linkedin_cover.png "Cover slide for LinkedIn Personal Branding Workshop")
+![Cover slide of LinkedIn Personal Branding Workshop](cover.png "Cover slide for LinkedIn Personal Branding Workshop")
 
-##Workshop Overview
+*Download workshop [here](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%202/LinkedIn/Bulding%20Your%20LinkedIn%20Brand.pptx).*
+
+## Workshop Overview
 
 ## What is a personal brand?
 “A personal brand is what people say about you when you leave the room.”
