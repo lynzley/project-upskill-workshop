@@ -1,6 +1,6 @@
 # LinkedIn Networking Workshop
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLbTLaLIntv0NNiHcfsLwAOON7libV9OMTXVZFGM62RRZKAtNCQ9V7tBCC8HQiRwIS74YooLhhheLX/embed?start=true&loop=true&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLbTLaLIntv0NNiHcfsLwAOON7libV9OMTXVZFGM62RRZKAtNCQ9V7tBCC8HQiRwIS74YooLhhheLX/embed?start=true&loop=true&delayms=60000"></iframe>
 
 ## Words of Wisdom
 - Do not wait until you're applying to jobs to start networking!
