@@ -12,9 +12,7 @@ A **soft skill gap** is growing between college grads and future employers, disp
 Currently, Project Upskill provides two workshops: a LinkedIn Personal Branding Workshop and a Networking Workshop. Each workshop includes:
 
 - A completed slide deck that can be edited for your organization
-- Speaker notes
-- A website where students can follow the workshops individually
-
+- Speaker notes which can also be used for students who would like to complete the workshop individually
 
 We are only in phase 1 of developing this project, which means that there are more workshops and learning opportunities to come!
 
