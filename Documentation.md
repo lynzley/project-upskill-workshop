@@ -36,7 +36,8 @@ You can also create your own workshop outside of the above ideas!
 
 - Locksley Kolakowski | Project Manager
 - Lynzley Kolakowski | Front End Developer
-- Jove Calimlin | UX Researcher
 - Rawuda Jemal | UX Designer
+- Jove Calimlin | UX Researcher
+
 
 If you have any questions, don't hesitate to reach out to any of us!
