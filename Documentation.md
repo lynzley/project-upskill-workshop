@@ -34,10 +34,10 @@ You can also create your own workshop outside of the above ideas!
   src="photos/team1.png"
 />
 
-- Locksley Kolakowski | Project Manager
-- Lynzley Kolakowski | Front End Developer
-- Rawuda Jemal | UX Designer
-- Jove Calimlin | UX Researcher
+- [Locksley Kolakowski | Project Manager](https://www.linkedin.com/in/locksley-kolakowski/)
+- [Lynzley Kolakowski | Front End Developer](https://www.linkedin.com/in/lynzley-kolakowski/)
+- [Rawuda Jemal | UX Designer](https://www.linkedin.com/in/rawuda/)
+- [Jove Calimlin | UX Researcher](https://www.linkedin.com/in/jove-calimlim-001b32ab/)
 
 
 If you have any questions, don't hesitate to reach out to any of us!
