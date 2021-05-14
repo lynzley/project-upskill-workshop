@@ -1,4 +1,7 @@
 # LinkedIn Networking Workshop
+---
+[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/Lesson%203/)
+---
 
 ![Cover slide of LinkedIn Networking Workshop](cover.png "Cover slide of LinkedIn Networking Workshop")
 
@@ -38,3 +41,7 @@ Another resource you can use is the Alumni Search Tool to specifically find peop
 1. Find something in their profile you want to learn about
 2. Have a specific ask
 3. An exit clause
+
+---
+[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/Lesson%203/)
+---
