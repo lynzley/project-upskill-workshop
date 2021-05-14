@@ -22,14 +22,14 @@ This page serves as an overview for the LinkedIn Personal Branding Workshop.
 1. Go to your profile and click the tab in the top right corner that says: Edit public profile & URL.
 2. Customize the URL to your personal preference. This will help it be easier to find and fit better on a resume.
 
-![Visual guide for customizing LinkedIn URL](photos/customizing_url_linkedin.png "Visual Guide for Customizing LinkedIn URL")
+![Visual guide for customizing LinkedIn URL](customizing_url_linkedin.png "Visual Guide for Customizing LinkedIn URL")
 
 ## Profile Picture
 Choose a profile picture that:
 - Reflects the industry you wish to enter (more professional for business/consulting, less professional for tech)
 - Is not cropped from a group photo. Try to find a good headshot of just yourself!
 
-![Examples of LinkedIn profile photos](photos/profile_photo_linkedin.png "Examples of LinkedIn profile photos")
+![Examples of LinkedIn profile photos](profile_photo_linkedin.png "Examples of LinkedIn profile photos")
 
 ## Cover photos
 You want to customize your cover photo to represent your personal brand. A couple background ideas include:
@@ -39,7 +39,7 @@ You want to customize your cover photo to represent your personal brand. A coupl
 
 **Tip**: If you have extra time, try using a tool like Canva which provides banners that you can easily customize.
 
-![Examples of LinkedIn cover photos](photos/banner_linkedin.png "Examples of LinkedIn cover photos")
+![Examples of LinkedIn cover photos](banner_linkedin.png "Examples of LinkedIn cover photos")
 
 ## Name
 You want your name to be how you introduce yourself as. For example, if you go by a nickname, she should use that. This let’s your network and recruiters know how to refer to you from the very beginning.
@@ -71,7 +71,7 @@ A few other ways you can break this up:
 - Discuss your past, your present, and where you’re looking to go
 - Tell your unique story.
 
-![Example of LinkedIn profile About section](photos/about_section_linkedin.png "Example of LinkedIn About section")
+![Example of LinkedIn profile About section](about_section_linkedin.png "Example of LinkedIn About section")
 
 ## Reflection
 Congratulations, on levelling-up your LinkedIn Profile! Take a couple minutes to reflect on these points:
