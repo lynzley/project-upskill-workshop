@@ -1,6 +1,7 @@
 # LinkedIn Personal Branding Workshop
-
-[Home](https://lynzley.github.io/project-upskill-workshop/)
+---
+[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/)
+---
 
 This page serves as an overview for the LinkedIn Personal Branding Workshop.
 
@@ -81,5 +82,6 @@ Congratulations, on levelling-up your LinkedIn Profile! Take a couple minutes to
 - What are the weaknesses in my LinkedIn Profile? How could I improve them?
 
 ## Ready to try out networking? Click [here](https://github.com/lynzley/project-upskill-workshop/tree/main/Lesson%203).
-
-[Home](https://lynzley.github.io/project-upskill-workshop/)
+---
+[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/)
+---
