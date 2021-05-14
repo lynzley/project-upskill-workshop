@@ -6,7 +6,7 @@
 />
 
 ## Project Overview
-A **soft skill** gap is growing between college grads and future employers, disproportionality affecting **first-generation** college students. We aim to close this gap by creating **2 workshops** targetting key areas in supporting the growth of student's soft skills. Each workshop can be included individually or through a cohort and includes pre- and post-lesson exercises, written instructions to complete the lesson, a slide deck, and more.
+A **soft skill gap** is growing between college grads and future employers, disproportionality affecting **first-generation** college students. We aim to close this gap by providing **2 workshops** organizations like yours can use targeting key areas in supporting the growth of student's soft skills. Each workshop can be completed individually or through a cohort and includes pre- and post-lesson exercises, written instructions to complete the lesson, a slide deck, and more.
 
 ## Key features
 Currently, Project Upskill provides two workshops: a LinkedIn Personal Branding Workshop and a Networking Workshop. Each workshop includes:
