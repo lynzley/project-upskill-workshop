@@ -1,6 +1,6 @@
 # LinkedIn Networking Workshop
 ---
-[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/Lesson%203/)
+[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/)
 ---
 
 This page serves as an overview for the LinkedIn Personal Branding Workshop.
@@ -8,6 +8,8 @@ This page serves as an overview for the LinkedIn Personal Branding Workshop.
 ![Cover slide of LinkedIn Networking Workshop](cover.png "Cover slide of LinkedIn Networking Workshop")
 
 *Download workshop [here](https://github.com/lynzley/project-upskill-workshop/blob/main/Lesson%203/Networking.pptx).*
+
+## Workshop Overview
 
 ## Words of Wisdom
 - Do not wait until you're applying to jobs to start networking!
@@ -45,5 +47,5 @@ Another resource you can use is the Alumni Search Tool to specifically find peop
 3. An exit clause
 
 ---
-[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/Lesson%203/)
+[Return to Main Page](https://lynzley.github.io/project-upskill-workshop/)
 ---
