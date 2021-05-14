@@ -27,3 +27,16 @@ During our Capstone, we conducted research on the followint areas and believe wo
 | [Personal Website]()   |
 
 You can also create your own workshop outside of the above ideas!
+
+# Project Founders
+## Team
+<img
+  src="photos/team1.png"
+/>
+
+- Locksley Kolakowski | Project Manager
+- Lynzley Kolakowski | Front End Developer
+- Jove Calimlin | UX Researcher
+- Rawuda Jemal | UX Designer
+
+If you have any questions, don't hesitate to reach out to any of us!
