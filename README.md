@@ -23,12 +23,8 @@ We are only in phase 1 of developing this project, which means that there are mo
 | [Personal Brand](https://lynzley.github.io/project-upskill-workshop/Lesson%202/LinkedIn)      | Develop your personal brand on one of the most important professional platforms: LinkedIn!       |
 | [Networking](https://lynzley.github.io/project-upskill-workshop/Lesson%203)    | Use LinkedIn to connect with iSchool alumni and grow your networking skills.       |
 
-## Presentation Video
-
-## Team
-<img
-  src="photos/team1.png"
-/>
+## Poject Demo
+...
 
 ## Project Status
 This is a University of Washington Information School Capstone project for Winter/Spring 2021.
